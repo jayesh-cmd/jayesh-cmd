@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jayesh-cmd
+- 👀 I’m interested in python programming , task automation , backend development and ai
+- 🌱 I’m currently learning backend development
+- 💞️ I’m looking to collaborate - Learning and building independently
+- 📫 How to reach me jayeshvishwakarma6028@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I debug in my dreams"
