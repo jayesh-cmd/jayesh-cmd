@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayesh-cmd
-- 👀 I’m interested in python programming , task automation , AI , ML
-- 🌱 I’m currently learning AI / ML
-- 💞️ I’m looking to collaborate - Learning and building independently
+- 💻 Interested in python programming , task automation , AI , ML
+- 🌱 Currently learning AI / ML , Deep Learning ( Tensorflow )
+- 🤝 looking to collaborate - Learning and building independently
 - 📫 How to reach me jayeshvishwakarma6028@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I debug in my dreams"
