@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayesh-cmd
+- 👋 Hi, I’m Jayesh Vishwakarma
 - 💻 Interested in python programming , task automation , AI , ML
 - 🌱 Currently learning AI / ML , Deep Learning ( Tensorflow )
 - 🤝 looking to collaborate - Learning and building independently
