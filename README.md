@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Jayesh Vishwakarma 🎧:
 MCA student and AI/ML Intern exploring the intersection of Generative AI and robust backend systems. Grinding LeetCode and making tech videos for JeyScript.
 
 
