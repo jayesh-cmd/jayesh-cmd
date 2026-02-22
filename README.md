@@ -27,6 +27,11 @@ MCA student and AI/ML Intern exploring the intersection of Generative AI and rob
   </a>
 </p>
 
+<p>
+  <a href="https://jayesh-pf.me/" target="_blank" rel="noopener noreferrer"> Portfolio
+  </a>
+</p>
+
 # 💻 Tech Stack:
 
 Languages:
