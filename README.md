@@ -4,25 +4,25 @@ MCA student and AI/ML Intern exploring the intersection of Generative AI and rob
 
 ## 🌐 Socials:
 <p>
-  <a href="https://www.linkedin.com/in/cmd-jayesh" target="_blank">
+  <a href="https://www.linkedin.com/in/cmd-jayesh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="18"/> LinkedIn
   </a>
 </p>
 
 <p>
-  <a href="https://www.instagram.com/btw.jey/" target="_blank">
+  <a href="https://www.instagram.com/btw.jey/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/instagram-new.png" width="18"/> Instagram
   </a>
 </p>
 
 <p>
-  <a href="https://youtube.com/@UCuhiV2kTGuRZXb2YF-vZ_Xg" target="_blank">
+  <a href="https://youtube.com/@jey_script?si=YXPermE8J_5pztiJ" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/youtube-play.png" width="18"/> YouTube
   </a>
 </p>
 
 <p>
-  <a href="mailto:jayeshvishwakarma6028@gmail.com">
+  <a href="mailto:jayeshvishwakarma6028@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="18"/> Email
   </a>
 </p>
