@@ -61,5 +61,5 @@ PostgreSQL
 Developer Tools:
 Git, GitHub, VS Code, Jupyter Notebook, Google Colab
 
-Design & Content (optional section — keep only if you want personality):
+Design & Content:
 Figma, Canva, Adobe Premiere Pro
