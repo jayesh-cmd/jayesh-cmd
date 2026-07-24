@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Source photos (private, not needed in repo)
+source-photo.jpg
+source-prepped.png
+no_bg.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
